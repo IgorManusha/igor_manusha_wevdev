@@ -1,1 +1,0 @@
-# igor_manusha_wevdev
