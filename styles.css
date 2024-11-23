@@ -133,4 +133,6 @@ a {
     border-radius: 16px;
 }
 
-.stakanVody {}
+.stakanVody {
+    text-align: center;
+}
